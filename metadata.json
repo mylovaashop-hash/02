@@ -1,0 +1,7 @@
+{
+  "name": "mylova.shop - Personalized Gifts & Emotional Connections",
+  "description": "An emotionally driven e-commerce experience for personalized products that tell your unique story. Crafted with love, powered by AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
